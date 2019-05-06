@@ -8,5 +8,3 @@ Useful Links
 https://devdocs.io
 
 https://dev.to/stephencweiss/how-to-test-your-api-using-curl-postman-382c
-
-test via vs code
